@@ -1,4 +1,4 @@
-# 🤖 abdelrhman-ellithy-rpa-multiple-web-scraping
+# RPA-Multiple-Web-Scraping
 
 This is a complete **UiPath RPA Project** that automates the process of reading product names from an Excel file, performing web searches, scraping results across multiple pages, and extracting key information like product title, price, and URL using advanced techniques such as RegEx. The results are then written to an output Excel file.
 
@@ -66,6 +66,8 @@ Directory structure:
     ├── project.json
     ├── Input/
     │   └── ProductsToBeScraped.xlsx
+    ├── Output/
+    │   └── ScrappedData2025-06-16-09-48.xlsx
     ├── .local/
     │   ├── AllDependencies.json
     │   ├── dataManagerElementsOrder.json
@@ -88,50 +90,14 @@ Directory structure:
     │   ├── H9Eb/
     │   ├── O0cj/
     │   └── pxq4/
-    │       ├── .metadata
-    │       ├── .type
-    │       ├── jXd2/
-    │       │   ├── .metadata
-    │       │   ├── .type
-    │       │   └── WHXt/
-    │       │       ├── .metadata
-    │       │       ├── .type
-    │       │       ├── 6Dj-/
-    │       │       │   ├── .metadata
-    │       │       │   ├── .type
-    │       │       │   └── .data/
-    │       │       │       └── ObjectRepositoryTargetData/
-    │       │       │           ├── .content
-    │       │       │           ├── .hash
-    │       │       │           ├── .attributes/
-    │       │       │           │   └── SearchHash
-    │       │       │           └── .images/
-    │       │       │               └── .design/
-    │       │       │                   └── 0rjFTcyPgnkGGAdt5LcAn5Q
-    │       │       └── .data/
-    │       │           └── ObjectRepositoryScreenData/
-    │       │               ├── .content
-    │       │               ├── .hash
-    │       │               ├── .attributes/
-    │       │               │   └── SearchHash
-    │       │               └── .images/
-    │       │                   └── .design/
-    │       │                       └── 0NuvaegcizU22afsJEE3p6Q
-    │       └── .data/
-    │           └── ObjectSelectionName/
-    │               ├── .content
-    │               └── .hash
     ├── .screenshots/
     ├── .storage/
     │   └── .runtime/
-    │       ├── AncestryPersistenceService/
-    │       │   ├── 3e8b1179-bc31-464c-8e82-e4dd044ac061
-    │       │   ├── 83c8c696-8515-4b5b-9ce6-4e9ea1fede98
-    │       │   └── e340ade7-c1a4-4d5d-8f14-d5618907dbab
     │       └── DesignTimeTargetImagePersistenceService/
     └── .tmh/
         └── config.json
 
 
-# RPA-Multiple-Web-Scraping
-UiPath RPA Project – Web Scraping with Excel Integration
+## 📄 License
+
+This project is licensed under the terms of the **MIT License**. See the [LICENSE](./LICENSE) file for details.
