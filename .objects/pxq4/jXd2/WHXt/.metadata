@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome JD Sports Global",
+  "Type": "Screen",
+  "Id": "WHXt93wFakmrA71N1dMiug",
+  "Reference": "qyD4HHQy-EuMC6iwIMXlEg/WHXt93wFakmrA71N1dMiug",
+  "ParentRef": "qyD4HHQy-EuMC6iwIMXlEg/jXd2PfQI-Eud_-BSe_tTGQ",
+  "Created": "2025-06-12T06:55:28.9492773Z",
+  "Updated": "2025-06-12T06:55:28.9492773Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

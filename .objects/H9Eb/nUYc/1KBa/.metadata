@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiPath Beginners Course - How to Get S",
+  "Type": "Screen",
+  "Id": "1KBas44A3kGnGJoe4vkNOg",
+  "Reference": "qyD4HHQy-EuMC6iwIMXlEg/1KBas44A3kGnGJoe4vkNOg",
+  "ParentRef": "qyD4HHQy-EuMC6iwIMXlEg/nUYcQyJebkCL0bo-kRlHKA",
+  "Created": "2025-06-12T06:54:53.1725162Z",
+  "Updated": "2025-06-12T06:54:53.1725162Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
