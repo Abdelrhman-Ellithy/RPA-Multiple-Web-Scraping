@@ -58,9 +58,7 @@ This is a complete **UiPath RPA Project** that automates the process of reading 
 ---
 
 ## 📁 Project Structure
-Directory structure:
-
-Directory structure:
+```txt
     ├── LICENSE
     ├── Main.xaml
     ├── project.json
@@ -97,7 +95,7 @@ Directory structure:
     └── .tmh/
         └── config.json
 
-
+```
 ## 📄 License
 
 This project is licensed under the terms of the **MIT License**. See the [LICENSE](./LICENSE) file for details.
