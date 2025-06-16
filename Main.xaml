@@ -116,7 +116,7 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="ProjectPath">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">C:\Users\aellithy\Documents\UiPath\POC-Web Scrapping</Literal>
+          <Literal x:TypeArguments="x:String">C:\Users\aellithy\Documents\UiPath\RPA-Multiple-Web-Scraping</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
@@ -197,7 +197,7 @@
                                       </sap:WorkflowViewStateService.ViewState>
                                       <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into Search Bar" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="500.8,286.4" sap2010:WorkflowViewState.IdRef="NTypeInto_5" ScopeIdentifier="d2fe865a-eebb-492b-a68a-267422b9e7ca" Text="[CurrentRow.Item(&quot;Product&quot;).ToString+&quot;[k(Enter)]&quot;]" Version="V4">
                                         <uix:NTypeInto.Target>
-                                          <uix:TargetAnchorable BrowserURL="global.jdsports.com" CVScreenId="42f94197-1f8b-44fc-ac79-b7fb0afd3488" ContentHash="E07CncMJlkC8uXqLZ16dHQ" DesignTimeRectangle="575, 223, 270, 50" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='srchInput' tag='INPUT' /&gt;" FuzzyAccuracy="1" Guid="e340ade7-c1a4-4d5d-8f14-d5618907dbab" InformativeScreenshot="9ad616d595523f87cbb2241c7f6f58de.png" Reference="qyD4HHQy-EuMC6iwIMXlEg/6Dj-UPCpOkS0U1xIgxJaHQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JD Sports Global' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None" />
+                                          <uix:TargetAnchorable BrowserURL="global.jdsports.com" CVScreenId="7012023a-4fbe-4dab-893b-b71150b5bf24" ContentHash="Vr9CzeTqzEawFon2zvWMiw" DesignTimeRectangle="992, 232, 388, 50" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='srchInput' tag='INPUT' /&gt;" Guid="58ef575e-02de-4e26-9e34-df06067d1d9a" InformativeScreenshot="3124af831e1280a27232b29bf759746d.png" Reference="qyD4HHQy-EuMC6iwIMXlEg/6Dj-UPCpOkS0U1xIgxJaHQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='JD Sports Global' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None" />
                                         </uix:NTypeInto.Target>
                                         <uix:NTypeInto.VerifyOptions>
                                           <uix:VerifyExecutionTypeIntoOptions DisplayName="{x:Null}" Mode="Appears">
